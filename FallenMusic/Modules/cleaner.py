@@ -47,3 +47,6 @@ async def clear_misc(_, message: Message):
         for lel in os.listdir(pth):
             os.system("rm -rf *.webm *.jpg *.png")
     await message.reply_text("» ᴀʟʟ ᴛᴇᴍᴘ ᴅɪʀᴇᴄᴛᴏʀɪᴇs ᴄʟᴇᴀɴᴇᴅ.")
+
+
+# lol
